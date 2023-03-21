@@ -2,6 +2,6 @@ import Button from 'react-bootstrap/Button';
 
 export function Test() {
     return (
-        <button
+        <Button variant="primary">Blue</Button>
     )
 }
